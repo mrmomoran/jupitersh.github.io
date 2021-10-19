@@ -5,7 +5,7 @@ import re
 from glob import glob
 
 
-os.chdir('/root/hexo/source/img/article_image/2020/2020-09-28')
+os.chdir('~/hexo/source/img/article_image/2020/2020-09-28')
 
 filenames = []
 for filename in glob('*.png', recursive=True):

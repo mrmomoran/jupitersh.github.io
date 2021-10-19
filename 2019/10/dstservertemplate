@@ -210,7 +210,7 @@ Ubuntu 32位及64位测试通过，其他Linux发行版本未测试，可自行�
     
     <span class="post-meta mr-2">
       <i class="iconfont icon-chart"></i>
-      538 字
+      537 字
     </span>
   
 
@@ -306,7 +306,7 @@ Ubuntu 32位及64位测试通过，其他Linux发行版本未测试，可自行�
 <figure class="highlight basic"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs basic"><span class="hljs-symbol">0 </span><span class="hljs-number">6</span> * * * /home/ubuntu/dst-server/update.sh<br><span class="hljs-symbol">3 </span><span class="hljs-number">6</span> * * * /home/ubuntu/dst-server/restart.sh<br></code></pre></td></tr></table></figure>
 
 <blockquote>
-<p>其中<code>/home/ubuntu/</code>根据你<code>dst-server</code>放的位置修改<br>如果你的用户名也是<code>ubuntu</code>，且放在用户主目录下，那么就不需要修改<br>如果你的用户名不是<code>ubuntu</code>，请将<code>/home/ubuntu/</code>的ubuntu替换为你的用户名<br>如果你以<code>root</code>用户登录，且放在用户主目录，请将<code>/home/ubuntu/</code>改为<code>/home/root/</code></p>
+<p>其中<code>/home/ubuntu/</code>根据你<code>dst-server</code>放的位置修改<br>如果你的用户名也是<code>ubuntu</code>，且放在用户主目录下，那么就不需要修改<br>如果你的用户名不是<code>ubuntu</code>，请将<code>/home/ubuntu/</code>的ubuntu替换为你的用户名<br>如果你以<code>root</code>用户登录，且放在用户主目录，请将<code>/home/ubuntu/</code>改为<code>/root/</code></p>
 </blockquote>
 
             </div>
