@@ -23,7 +23,7 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/about/index.html</loc>
+    <loc>https://peppernotes.top/about/</loc>
     
     <lastmod>2021-09-29</lastmod>
     
@@ -333,13 +333,6 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/tags/VirtualBox/</loc>
-    <lastmod>2021-10-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://peppernotes.top/tags/Hexo/</loc>
     <lastmod>2021-10-19</lastmod>
     <changefreq>daily</changefreq>
@@ -362,6 +355,13 @@
   
   <url>
     <loc>https://peppernotes.top/tags/Git/</loc>
+    <lastmod>2021-10-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peppernotes.top/tags/VirtualBox/</loc>
     <lastmod>2021-10-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
