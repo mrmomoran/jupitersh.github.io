@@ -1,7 +1,7 @@
 
 
 <!DOCTYPE html>
-<html lang="zh-CN" data-default-color-scheme=&#34;auto&#34;>
+<html lang="zh-CN" data-default-color-scheme=auto>
 
 
 
@@ -9,20 +9,24 @@
   <meta charset="UTF-8">
   <link rel="apple-touch-icon" sizes="76x76" href="/img/icon.png">
   <link rel="icon" href="/img/icon.png">
-  <meta name="viewport"
-        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   
   <meta name="theme-color" content="#2f4154">
-  
-    <meta name="description" content="">
-  
+  <meta name="description" content="">
   <meta name="author" content="辣椒小皇纸">
   <meta name="keywords" content="">
+  <meta property="og:type" content="website">
+<meta property="og:title" content="辣椒手记">
+<meta property="og:url" content="https://peppernotes.top/page/4/index.html">
+<meta property="og:site_name" content="辣椒手记">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:author" content="辣椒小皇纸">
+<meta name="twitter:card" content="summary_large_image">
   
   <title>辣椒手记</title>
 
-  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" />
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4/dist/css/bootstrap.min.css" />
 
 
 
@@ -46,7 +50,7 @@
 
   <script id="fluid-configs">
     var Fluid = window.Fluid || {};
-    var CONFIG = {"hostname":"peppernotes.top","root":"/","version":"1.8.8","typing":{"enable":true,"typeSpeed":70,"cursorChar":"♥","loop":false},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"right","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"copy_btn":true,"image_zoom":{"enable":true},"toc":{"enable":true,"headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"onlypost":false},"web_analytics":{"enable":true,"baidu":"d5789316175edf52298e98f64043f39b","google":"UA-172924260-1","gtag":null,"tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":"URm4KfhnXhSbqwY8C1zIBw4x-MdYXbMMI","app_key":"lh77VzmHrjLqi9khKQgEneGy","server_url":null}}};
+    var CONFIG = {"hostname":"peppernotes.top","root":"/","version":"1.8.12","typing":{"enable":true,"typeSpeed":70,"cursorChar":"♥","loop":false},"anchorjs":{"enable":true,"element":"h1,h2,h3,h4,h5,h6","placement":"right","visible":"hover","icon":""},"progressbar":{"enable":true,"height_px":3,"color":"#29d","options":{"showSpinner":false,"trickleSpeed":100}},"copy_btn":true,"image_zoom":{"enable":true,"img_url_replace":["",""]},"toc":{"enable":true,"headingSelector":"h1,h2,h3,h4,h5,h6","collapseDepth":0},"lazyload":{"enable":true,"loading_img":"/img/loading.gif","onlypost":false,"offset_factor":2},"web_analytics":{"enable":false,"baidu":"d5789316175edf52298e98f64043f39b","google":"UA-172924260-1","gtag":null,"tencent":{"sid":null,"cid":null},"woyaola":null,"cnzz":null,"leancloud":{"app_id":"URm4KfhnXhSbqwY8C1zIBw4x-MdYXbMMI","app_key":"lh77VzmHrjLqi9khKQgEneGy","server_url":null,"path":"window.location.pathname"}},"search_path":"/local-search.xml"};
   </script>
   <script  src="/js/utils.js" ></script>
   <script  src="/js/color-schema.js" ></script>
@@ -57,8 +61,9 @@
   <header style="height: 100vh;">
     <nav id="navbar" class="navbar fixed-top  navbar-expand-lg navbar-dark scrolling-navbar">
   <div class="container">
-    <a class="navbar-brand"
-       href="/">&nbsp;<strong>辣椒手记</strong>&nbsp;</a>
+    <a class="navbar-brand" href="/">
+      <strong>辣椒手记</strong>
+    </a>
 
     <button id="navbar-toggler-btn" class="navbar-toggler" type="button" data-toggle="collapse"
             data-target="#navbarSupportedContent"
@@ -144,13 +149,14 @@
         
         
           <li class="nav-item" id="search-btn">
-            <a class="nav-link" data-toggle="modal" data-target="#modalSearch">&nbsp;<i
-                class="iconfont icon-search"></i>&nbsp;</a>
+            <a class="nav-link" target="_self" href="javascript:;" data-toggle="modal" data-target="#modalSearch" aria-label="Search">
+              &nbsp;<i class="iconfont icon-search"></i>&nbsp;
+            </a>
           </li>
         
         
           <li class="nav-item" id="color-toggle-btn">
-            <a class="nav-link" href="javascript:">&nbsp;<i
+            <a class="nav-link" target="_self" href="javascript:;" aria-label="Color Toggle">&nbsp;<i
                 class="iconfont icon-dark" id="color-toggle-icon"></i>&nbsp;</a>
           </li>
         
@@ -199,18 +205,20 @@
     
       <div class="col-12 col-md-4 m-auto index-img">
         <a href="/2019/11/dstcustomcmd" target="_self">
-          <img src="/img/post_cover/dst2.webp" srcset="/img/loading.gif" alt="自定义饥荒服务器后台命令">
+          <img src="/img/post_cover/dst2.webp" srcset="/img/loading.gif" lazyload alt="自定义饥荒服务器后台命令">
         </a>
       </div>
     
     <article class="col-12 col-md-8 mx-auto index-info">
       <h1 class="index-header">
         
-        <a href="/2019/11/dstcustomcmd">自定义饥荒服务器后台命令</a>
+        <a href="/2019/11/dstcustomcmd" target="_self">
+          自定义饥荒服务器后台命令
+        </a>
       </h1>
 
       <p class="index-excerpt">
-        <a href="/2019/11/dstcustomcmd">
+        <a href="/2019/11/dstcustomcmd" target="_self">
           
           
             
@@ -257,18 +265,20 @@
     
       <div class="col-12 col-md-4 m-auto index-img">
         <a href="/2019/11/dstmoji" target="_self">
-          <img src="/img/post_cover/dst.webp" srcset="/img/loading.gif" alt="让您的饥荒昵称看起来更精致">
+          <img src="/img/post_cover/dst.webp" srcset="/img/loading.gif" lazyload alt="让您的饥荒昵称看起来更精致">
         </a>
       </div>
     
     <article class="col-12 col-md-8 mx-auto index-info">
       <h1 class="index-header">
         
-        <a href="/2019/11/dstmoji">让您的饥荒昵称看起来更精致</a>
+        <a href="/2019/11/dstmoji" target="_self">
+          让您的饥荒昵称看起来更精致
+        </a>
       </h1>
 
       <p class="index-excerpt">
-        <a href="/2019/11/dstmoji">
+        <a href="/2019/11/dstmoji" target="_self">
           
           
             
@@ -315,18 +325,20 @@
     
       <div class="col-12 col-md-4 m-auto index-img">
         <a href="/2019/11/dstserverwindows" target="_self">
-          <img src="/img/post_cover/dst4.webp" srcset="/img/loading.gif" alt="Windows 搭建饥荒服务器指南">
+          <img src="/img/post_cover/dst4.webp" srcset="/img/loading.gif" lazyload alt="Windows 搭建饥荒服务器指南">
         </a>
       </div>
     
     <article class="col-12 col-md-8 mx-auto index-info">
       <h1 class="index-header">
         
-        <a href="/2019/11/dstserverwindows">Windows 搭建饥荒服务器指南</a>
+        <a href="/2019/11/dstserverwindows" target="_self">
+          Windows 搭建饥荒服务器指南
+        </a>
       </h1>
 
       <p class="index-excerpt">
-        <a href="/2019/11/dstserverwindows">
+        <a href="/2019/11/dstserverwindows" target="_self">
           
           
             
@@ -376,18 +388,20 @@
     
       <div class="col-12 col-md-4 m-auto index-img">
         <a href="/2019/10/vboxlubuntu" target="_self">
-          <img src="/img/post_cover/lubuntu.webp" srcset="/img/loading.gif" alt="VirtualBox 安装 Lubuntu 备忘录">
+          <img src="/img/post_cover/lubuntu.webp" srcset="/img/loading.gif" lazyload alt="VirtualBox 安装 Lubuntu 备忘录">
         </a>
       </div>
     
     <article class="col-12 col-md-8 mx-auto index-info">
       <h1 class="index-header">
         
-        <a href="/2019/10/vboxlubuntu">VirtualBox 安装 Lubuntu 备忘录</a>
+        <a href="/2019/10/vboxlubuntu" target="_self">
+          VirtualBox 安装 Lubuntu 备忘录
+        </a>
       </h1>
 
       <p class="index-excerpt">
-        <a href="/2019/10/vboxlubuntu">
+        <a href="/2019/10/vboxlubuntu" target="_self">
           
           
             
@@ -436,18 +450,20 @@ Lubuntu是Ubuntu的另一个分支，其桌面环境是LXDE，适合性能范围
     
       <div class="col-12 col-md-4 m-auto index-img">
         <a href="/2019/10/dstservertemplate" target="_self">
-          <img src="/img/post_cover/dst3.webp" srcset="/img/loading.gif" alt="饥荒联机服务器搭建模板">
+          <img src="/img/post_cover/dst3.webp" srcset="/img/loading.gif" lazyload alt="饥荒联机服务器搭建模板">
         </a>
       </div>
     
     <article class="col-12 col-md-8 mx-auto index-info">
       <h1 class="index-header">
         
-        <a href="/2019/10/dstservertemplate">饥荒联机服务器搭建模板</a>
+        <a href="/2019/10/dstservertemplate" target="_self">
+          饥荒联机服务器搭建模板
+        </a>
       </h1>
 
       <p class="index-excerpt">
-        <a href="/2019/10/dstservertemplate">
+        <a href="/2019/10/dstservertemplate" target="_self">
           
           
             
@@ -501,18 +517,20 @@ Ubuntu 32位及64位测试通过，其他Linux发行版本未测试，可自行�
     
       <div class="col-12 col-md-4 m-auto index-img">
         <a href="/2019/09/gitnotes" target="_self">
-          <img src="/img/post_cover/git.webp" srcset="/img/loading.gif" alt="Git 学习笔记">
+          <img src="/img/post_cover/git.webp" srcset="/img/loading.gif" lazyload alt="Git 学习笔记">
         </a>
       </div>
     
     <article class="col-12 col-md-8 mx-auto index-info">
       <h1 class="index-header">
         
-        <a href="/2019/09/gitnotes">Git 学习笔记</a>
+        <a href="/2019/09/gitnotes" target="_self">
+          Git 学习笔记
+        </a>
       </h1>
 
       <p class="index-excerpt">
-        <a href="/2019/09/gitnotes">
+        <a href="/2019/09/gitnotes" target="_self">
           
           
             
@@ -559,18 +577,20 @@ Ubuntu 32位及64位测试通过，其他Linux发行版本未测试，可自行�
     
       <div class="col-12 col-md-4 m-auto index-img">
         <a href="/2019/09/sudopasswdless" target="_self">
-          <img src="/img/post_cover/ubuntu.webp" srcset="/img/loading.gif" alt="Ubuntu 在运行 sudo 命令时免密码">
+          <img src="/img/post_cover/ubuntu.webp" srcset="/img/loading.gif" lazyload alt="Ubuntu 在运行 sudo 命令时免密码">
         </a>
       </div>
     
     <article class="col-12 col-md-8 mx-auto index-info">
       <h1 class="index-header">
         
-        <a href="/2019/09/sudopasswdless">Ubuntu 在运行 sudo 命令时免密码</a>
+        <a href="/2019/09/sudopasswdless" target="_self">
+          Ubuntu 在运行 sudo 命令时免密码
+        </a>
       </h1>
 
       <p class="index-excerpt">
-        <a href="/2019/09/sudopasswdless">
+        <a href="/2019/09/sudopasswdless" target="_self">
           
           
             
@@ -617,18 +637,20 @@ Ubuntu 32位及64位测试通过，其他Linux发行版本未测试，可自行�
     
       <div class="col-12 col-md-4 m-auto index-img">
         <a href="/2019/09/vboxubuntu" target="_self">
-          <img src="/img/post_cover/virtualbox.webp" srcset="/img/loading.gif" alt="VirtualBox 安装 Ubuntu Server 18 后开启增强功能及共享文件夹">
+          <img src="/img/post_cover/virtualbox.webp" srcset="/img/loading.gif" lazyload alt="VirtualBox 安装 Ubuntu Server 18 后开启增强功能及共享文件夹">
         </a>
       </div>
     
     <article class="col-12 col-md-8 mx-auto index-info">
       <h1 class="index-header">
         
-        <a href="/2019/09/vboxubuntu">VirtualBox 安装 Ubuntu Server 18 后开启增强功能及共享文件夹</a>
+        <a href="/2019/09/vboxubuntu" target="_self">
+          VirtualBox 安装 Ubuntu Server 18 后开启增强功能及共享文件夹
+        </a>
       </h1>
 
       <p class="index-excerpt">
-        <a href="/2019/09/vboxubuntu">
+        <a href="/2019/09/vboxubuntu" target="_self">
           
           
             
@@ -677,18 +699,20 @@ Ubuntu 32位及64位测试通过，其他Linux发行版本未测试，可自行�
     
       <div class="col-12 col-md-4 m-auto index-img">
         <a href="/2019/09/hexogitee" target="_self">
-          <img src="/img/post_cover/hexo.webp" srcset="/img/loading.gif" alt="在码云上利用 Hexo 搭建博客">
+          <img src="/img/post_cover/hexo.webp" srcset="/img/loading.gif" lazyload alt="在码云上利用 Hexo 搭建博客">
         </a>
       </div>
     
     <article class="col-12 col-md-8 mx-auto index-info">
       <h1 class="index-header">
         
-        <a href="/2019/09/hexogitee">在码云上利用 Hexo 搭建博客</a>
+        <a href="/2019/09/hexogitee" target="_self">
+          在码云上利用 Hexo 搭建博客
+        </a>
       </h1>
 
       <p class="index-excerpt">
-        <a href="/2019/09/hexogitee">
+        <a href="/2019/09/hexogitee" target="_self">
           
           
             
@@ -741,18 +765,20 @@ Ubuntu 32位及64位测试通过，其他Linux发行版本未测试，可自行�
     
       <div class="col-12 col-md-4 m-auto index-img">
         <a href="/2019/09/linuxscreen" target="_self">
-          <img src="/img/post_cover/terminal.webp" srcset="/img/loading.gif" alt="Linux Screen 命令详解">
+          <img src="/img/post_cover/terminal.webp" srcset="/img/loading.gif" lazyload alt="Linux Screen 命令详解">
         </a>
       </div>
     
     <article class="col-12 col-md-8 mx-auto index-info">
       <h1 class="index-header">
         
-        <a href="/2019/09/linuxscreen">Linux Screen 命令详解</a>
+        <a href="/2019/09/linuxscreen" target="_self">
+          Linux Screen 命令详解
+        </a>
       </h1>
 
       <p class="index-excerpt">
-        <a href="/2019/09/linuxscreen">
+        <a href="/2019/09/linuxscreen" target="_self">
           
           
             
@@ -816,7 +842,7 @@ Linux系统管理员经常需要SSH远程登录到Linux服务器，经常运行�
     
 
     
-      <a id="scroll-top-button" href="#" role="button">
+      <a id="scroll-top-button" aria-label="TOP" href="#" role="button">
         <i class="iconfont icon-arrowup" aria-hidden="true"></i>
       </a>
     
@@ -898,7 +924,7 @@ Linux系统管理员经常需要SSH远程登录到Linux服务器，经常运行�
           >
             
               <span style="visibility: hidden; width: 0">|</span>
-              <img src="/img/police_beian.png" srcset="/img/loading.gif" alt="police-icon"/>
+              <img src="/img/police_beian.png" srcset="/img/loading.gif" lazyload alt="police-icon"/>
             
             <span>浙公网安备33032202000176号</span>
           </a>
@@ -911,10 +937,11 @@ Linux系统管理员经常需要SSH远程登录到Linux服务器，经常运行�
   
 </footer>
 
-<!-- SCRIPTS -->
 
-  <script  src="https://cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.js" ></script>
-  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nprogress@0.2.0/nprogress.min.css" />
+  <!-- SCRIPTS -->
+  
+  <script  src="https://cdn.jsdelivr.net/npm/nprogress@0/nprogress.min.js" ></script>
+  <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nprogress@0/nprogress.min.css" />
 
   <script>
     NProgress.configure({"showSpinner":false,"trickleSpeed":100})
@@ -925,32 +952,27 @@ Linux系统管理员经常需要SSH远程登录到Linux服务器，经常运行�
   </script>
 
 
-<script  src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js" ></script>
-<script  src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" ></script>
-<script  src="/js/debouncer.js" ></script>
+<script  src="https://cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js" ></script>
+<script  src="https://cdn.jsdelivr.net/npm/bootstrap@4/dist/js/bootstrap.min.js" ></script>
 <script  src="/js/events.js" ></script>
 <script  src="/js/plugins.js" ></script>
 
 <!-- Plugins -->
 
 
-  
-    <script  src="/js/lazyload.js" ></script>
-  
+  <script  src="/js/local-search.js" ></script>
 
 
 
   
+    <script  src="/js/img-lazyload.js" ></script>
+  
 
 
 
+  
 
 
-
-
-
-
-  <script defer src="https://cdn.jsdelivr.net/npm/clipboard@2.0.6/dist/clipboard.min.js" ></script>
 
 
 
@@ -959,7 +981,7 @@ Linux系统管理员经常需要SSH远程登录到Linux服务器，经常运行�
 
 
 
-  <script  src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11/lib/typed.min.js" ></script>
+  <script  src="https://cdn.jsdelivr.net/npm/typed.js@2/lib/typed.min.js" ></script>
   <script>
     (function (window, document) {
       var typing = Fluid.plugins.typing;
@@ -972,18 +994,6 @@ Linux系统管理员经常需要SSH远程登录到Linux服务器，经常运行�
 
 
 
-  <script  src="/js/local-search.js" ></script>
-  <script>
-    (function () {
-      var path = "/local-search.xml";
-      $('#local-search-input').on('click', function() {
-        searchFunc(path, 'local-search-input', 'local-search-result');
-      });
-      $('#modalSearch').on('shown.bs.modal', function() {
-        $('#local-search-input').focus();
-      });
-    })()
-  </script>
 
 
 
@@ -991,42 +1001,6 @@ Linux系统管理员经常需要SSH远程登录到Linux服务器，经常运行�
 
 
 
-
-
-
-
-
-  
-    <!-- Baidu Analytics -->
-    <script defer>
-      var _hmt = _hmt || [];
-      (function () {
-        var hm = document.createElement("script");
-        hm.src = "https://hm.baidu.com/hm.js?d5789316175edf52298e98f64043f39b";
-        var s = document.getElementsByTagName("script")[0];
-        s.parentNode.insertBefore(hm, s);
-      })();
-    </script>
-  
-
-  
-    <!-- Google Analytics -->
-    <script defer>
-      window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments) };
-      ga.l = +new Date;
-      ga('create', 'UA-172924260-1', 'auto');
-      ga('send', 'pageview');
-    </script>
-    <script async src='https://www.google-analytics.com/analytics.js'></script>
-  
-
-  
-
-  
-
-  
-
-  
 
 
 
@@ -1034,7 +1008,6 @@ Linux系统管理员经常需要SSH远程登录到Linux服务器，经常运行�
 
 <!-- 主题的启动项 保持在最底部 -->
 <script  src="/js/boot.js" ></script>
-
 
 
 </body>
