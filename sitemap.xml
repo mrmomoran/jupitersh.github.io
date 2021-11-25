@@ -247,20 +247,6 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/2019/10/vboxlubuntu/</loc>
-    
-    <lastmod>2020-05-24</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://peppernotes.top/2019/11/dstserverwindows/</loc>
-    
-    <lastmod>2020-05-24</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://peppernotes.top/2020/02/giteeautoupdate/</loc>
     
     <lastmod>2020-05-24</lastmod>
@@ -269,6 +255,20 @@
   
   <url>
     <loc>https://peppernotes.top/2020/03/aria2h5ai/</loc>
+    
+    <lastmod>2020-05-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://peppernotes.top/2019/10/vboxlubuntu/</loc>
+    
+    <lastmod>2020-05-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://peppernotes.top/2019/11/dstserverwindows/</loc>
     
     <lastmod>2020-05-24</lastmod>
     
@@ -333,6 +333,13 @@
   </url>
   
   <url>
+    <loc>https://peppernotes.top/tags/Git/</loc>
+    <lastmod>2021-11-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://peppernotes.top/tags/VirtualBox/</loc>
     <lastmod>2021-11-25</lastmod>
     <changefreq>daily</changefreq>
@@ -355,13 +362,6 @@
   
   <url>
     <loc>https://peppernotes.top/tags/%E7%A0%81%E4%BA%91/</loc>
-    <lastmod>2021-11-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peppernotes.top/tags/Git/</loc>
     <lastmod>2021-11-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -459,13 +459,6 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/tags/OpenVPN/</loc>
-    <lastmod>2021-11-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://peppernotes.top/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/</loc>
     <lastmod>2021-11-25</lastmod>
     <changefreq>daily</changefreq>
@@ -487,6 +480,20 @@
   </url>
   
   <url>
+    <loc>https://peppernotes.top/tags/OpenVPN/</loc>
+    <lastmod>2021-11-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peppernotes.top/tags/GitHub-Actions/</loc>
+    <lastmod>2021-11-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://peppernotes.top/tags/Sublime-Text/</loc>
     <lastmod>2021-11-25</lastmod>
     <changefreq>daily</changefreq>
@@ -495,13 +502,6 @@
   
   <url>
     <loc>https://peppernotes.top/tags/Coding/</loc>
-    <lastmod>2021-11-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peppernotes.top/tags/GitHub-Actions/</loc>
     <lastmod>2021-11-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -545,6 +545,13 @@
   </url>
   
   <url>
+    <loc>https://peppernotes.top/categories/IT/Blogging/</loc>
+    <lastmod>2021-11-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://peppernotes.top/categories/IT/Linux/</loc>
     <lastmod>2021-11-25</lastmod>
     <changefreq>daily</changefreq>
@@ -553,13 +560,6 @@
   
   <url>
     <loc>https://peppernotes.top/categories/IT/Python/</loc>
-    <lastmod>2021-11-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peppernotes.top/categories/IT/Blogging/</loc>
     <lastmod>2021-11-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
