@@ -247,14 +247,14 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/2019/11/dstserverwindows/</loc>
+    <loc>https://peppernotes.top/2019/10/vboxlubuntu/</loc>
     
     <lastmod>2020-05-24</lastmod>
     
   </url>
   
   <url>
-    <loc>https://peppernotes.top/2019/10/vboxlubuntu/</loc>
+    <loc>https://peppernotes.top/2019/11/dstserverwindows/</loc>
     
     <lastmod>2020-05-24</lastmod>
     
@@ -375,6 +375,13 @@
   </url>
   
   <url>
+    <loc>https://peppernotes.top/tags/Jupyter/</loc>
+    <lastmod>2022-01-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://peppernotes.top/tags/Aria2/</loc>
     <lastmod>2022-01-26</lastmod>
     <changefreq>daily</changefreq>
@@ -389,21 +396,7 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/tags/Jupyter/</loc>
-    <lastmod>2022-01-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://peppernotes.top/tags/GitHub/</loc>
-    <lastmod>2022-01-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peppernotes.top/tags/Docker/</loc>
     <lastmod>2022-01-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -425,6 +418,13 @@
   
   <url>
     <loc>https://peppernotes.top/tags/DNS/</loc>
+    <lastmod>2022-01-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peppernotes.top/tags/Docker/</loc>
     <lastmod>2022-01-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -480,20 +480,6 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/tags/Sublime-Text/</loc>
-    <lastmod>2022-01-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peppernotes.top/tags/Coding/</loc>
-    <lastmod>2022-01-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://peppernotes.top/tags/Email/</loc>
     <lastmod>2022-01-26</lastmod>
     <changefreq>daily</changefreq>
@@ -502,6 +488,20 @@
   
   <url>
     <loc>https://peppernotes.top/tags/GitHub-Actions/</loc>
+    <lastmod>2022-01-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peppernotes.top/tags/Sublime-Text/</loc>
+    <lastmod>2022-01-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peppernotes.top/tags/Coding/</loc>
     <lastmod>2022-01-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -573,14 +573,14 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/categories/IT/Docker/</loc>
+    <loc>https://peppernotes.top/categories/IT/%E5%85%B6%E4%BB%96/</loc>
     <lastmod>2022-01-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://peppernotes.top/categories/IT/%E5%85%B6%E4%BB%96/</loc>
+    <loc>https://peppernotes.top/categories/IT/Docker/</loc>
     <lastmod>2022-01-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
