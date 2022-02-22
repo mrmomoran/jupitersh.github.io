@@ -382,6 +382,13 @@
   </url>
   
   <url>
+    <loc>https://peppernotes.top/tags/GitHub/</loc>
+    <lastmod>2022-02-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://peppernotes.top/tags/Aria2/</loc>
     <lastmod>2022-02-22</lastmod>
     <changefreq>daily</changefreq>
@@ -396,21 +403,7 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/tags/GitHub/</loc>
-    <lastmod>2022-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://peppernotes.top/tags/%E7%88%AC%E8%99%AB/</loc>
-    <lastmod>2022-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peppernotes.top/tags/Docker/</loc>
     <lastmod>2022-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -425,6 +418,13 @@
   
   <url>
     <loc>https://peppernotes.top/tags/DNS/</loc>
+    <lastmod>2022-02-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peppernotes.top/tags/Docker/</loc>
     <lastmod>2022-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -480,13 +480,6 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/tags/Pixiv/</loc>
-    <lastmod>2022-02-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://peppernotes.top/tags/Sublime-Text/</loc>
     <lastmod>2022-02-22</lastmod>
     <changefreq>daily</changefreq>
@@ -495,6 +488,13 @@
   
   <url>
     <loc>https://peppernotes.top/tags/Coding/</loc>
+    <lastmod>2022-02-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peppernotes.top/tags/Pixiv/</loc>
     <lastmod>2022-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -573,14 +573,14 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/categories/IT/Docker/</loc>
+    <loc>https://peppernotes.top/categories/IT/%E5%85%B6%E4%BB%96/</loc>
     <lastmod>2022-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://peppernotes.top/categories/IT/%E5%85%B6%E4%BB%96/</loc>
+    <loc>https://peppernotes.top/categories/IT/Docker/</loc>
     <lastmod>2022-02-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
