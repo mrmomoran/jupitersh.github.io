@@ -531,13 +531,6 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/categories/%E6%B8%B8%E6%88%8F/%E9%A5%A5%E8%8D%92/</loc>
-    <lastmod>2022-02-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://peppernotes.top/categories/IT/</loc>
     <lastmod>2022-02-25</lastmod>
     <changefreq>daily</changefreq>
@@ -545,7 +538,7 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/categories/IT/Blogging/</loc>
+    <loc>https://peppernotes.top/categories/%E6%B8%B8%E6%88%8F/%E9%A5%A5%E8%8D%92/</loc>
     <lastmod>2022-02-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -559,14 +552,21 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/categories/IT/Git/</loc>
+    <loc>https://peppernotes.top/categories/IT/Python/</loc>
     <lastmod>2022-02-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://peppernotes.top/categories/IT/Python/</loc>
+    <loc>https://peppernotes.top/categories/IT/Blogging/</loc>
+    <lastmod>2022-02-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peppernotes.top/categories/IT/Git/</loc>
     <lastmod>2022-02-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -594,13 +594,6 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/categories/%E7%A7%91%E7%A0%94/</loc>
-    <lastmod>2022-02-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://peppernotes.top/categories/IT/R/</loc>
     <lastmod>2022-02-25</lastmod>
     <changefreq>daily</changefreq>
@@ -616,6 +609,13 @@
   
   <url>
     <loc>https://peppernotes.top/categories/IT/Sublime-Text/</loc>
+    <lastmod>2022-02-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peppernotes.top/categories/%E7%A7%91%E7%A0%94/</loc>
     <lastmod>2022-02-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
