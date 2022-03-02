@@ -396,13 +396,6 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/tags/GitHub/</loc>
-    <lastmod>2022-03-02</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://peppernotes.top/tags/%E7%88%AC%E8%99%AB/</loc>
     <lastmod>2022-03-02</lastmod>
     <changefreq>daily</changefreq>
@@ -509,6 +502,13 @@
   
   <url>
     <loc>https://peppernotes.top/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
+    <lastmod>2022-03-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peppernotes.top/tags/GitHub/</loc>
     <lastmod>2022-03-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
