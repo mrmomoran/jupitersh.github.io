@@ -326,6 +326,13 @@
   </url>
   
   <url>
+    <loc>https://peppernotes.top/tags/Screen/</loc>
+    <lastmod>2022-03-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://peppernotes.top/tags/VirtualBox/</loc>
     <lastmod>2022-03-09</lastmod>
     <changefreq>daily</changefreq>
@@ -354,13 +361,6 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/tags/Screen/</loc>
-    <lastmod>2022-03-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://peppernotes.top/tags/Git/</loc>
     <lastmod>2022-03-09</lastmod>
     <changefreq>daily</changefreq>
@@ -376,6 +376,20 @@
   
   <url>
     <loc>https://peppernotes.top/tags/Jupyter/</loc>
+    <lastmod>2022-03-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peppernotes.top/tags/Aria2/</loc>
+    <lastmod>2022-03-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peppernotes.top/tags/h5ai/</loc>
     <lastmod>2022-03-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -411,20 +425,6 @@
   
   <url>
     <loc>https://peppernotes.top/tags/DNS/</loc>
-    <lastmod>2022-03-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peppernotes.top/tags/Aria2/</loc>
-    <lastmod>2022-03-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peppernotes.top/tags/h5ai/</loc>
     <lastmod>2022-03-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -480,6 +480,13 @@
   </url>
   
   <url>
+    <loc>https://peppernotes.top/tags/Pixiv/</loc>
+    <lastmod>2022-03-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://peppernotes.top/tags/Sublime-Text/</loc>
     <lastmod>2022-03-09</lastmod>
     <changefreq>daily</changefreq>
@@ -495,13 +502,6 @@
   
   <url>
     <loc>https://peppernotes.top/tags/GitHub-Actions/</loc>
-    <lastmod>2022-03-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peppernotes.top/tags/Pixiv/</loc>
     <lastmod>2022-03-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -552,6 +552,13 @@
   </url>
   
   <url>
+    <loc>https://peppernotes.top/categories/IT/Python/</loc>
+    <lastmod>2022-03-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://peppernotes.top/categories/IT/Blogging/</loc>
     <lastmod>2022-03-09</lastmod>
     <changefreq>daily</changefreq>
@@ -560,13 +567,6 @@
   
   <url>
     <loc>https://peppernotes.top/categories/IT/Git/</loc>
-    <lastmod>2022-03-09</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peppernotes.top/categories/IT/Python/</loc>
     <lastmod>2022-03-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
