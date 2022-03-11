@@ -375,6 +375,13 @@
   </url>
   
   <url>
+    <loc>https://peppernotes.top/tags/Jupyter/</loc>
+    <lastmod>2022-03-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://peppernotes.top/tags/Aria2/</loc>
     <lastmod>2022-03-11</lastmod>
     <changefreq>daily</changefreq>
@@ -389,7 +396,7 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/tags/Jupyter/</loc>
+    <loc>https://peppernotes.top/tags/GitHub/</loc>
     <lastmod>2022-03-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -404,13 +411,6 @@
   
   <url>
     <loc>https://peppernotes.top/tags/Docker/</loc>
-    <lastmod>2022-03-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peppernotes.top/tags/GitHub/</loc>
     <lastmod>2022-03-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
