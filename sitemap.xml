@@ -4,14 +4,14 @@
   <url>
     <loc>https://peppernotes.top/repo/</loc>
     
-    <lastmod>2022-03-19</lastmod>
+    <lastmod>2022-03-20</lastmod>
     
   </url>
   
   <url>
     <loc>https://peppernotes.top/shoprecord/</loc>
     
-    <lastmod>2022-03-19</lastmod>
+    <lastmod>2022-03-20</lastmod>
     
   </url>
   
@@ -375,13 +375,6 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/tags/Jupyter/</loc>
-    <lastmod>2022-03-20</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://peppernotes.top/tags/Aria2/</loc>
     <lastmod>2022-03-20</lastmod>
     <changefreq>daily</changefreq>
@@ -390,6 +383,13 @@
   
   <url>
     <loc>https://peppernotes.top/tags/h5ai/</loc>
+    <lastmod>2022-03-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peppernotes.top/tags/Jupyter/</loc>
     <lastmod>2022-03-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
