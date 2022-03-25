@@ -333,13 +333,6 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/tags/VirtualBox/</loc>
-    <lastmod>2022-03-25</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://peppernotes.top/tags/Hexo/</loc>
     <lastmod>2022-03-25</lastmod>
     <changefreq>daily</changefreq>
@@ -362,6 +355,13 @@
   
   <url>
     <loc>https://peppernotes.top/tags/Git/</loc>
+    <lastmod>2022-03-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peppernotes.top/tags/VirtualBox/</loc>
     <lastmod>2022-03-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
