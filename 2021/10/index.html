@@ -13,28 +13,20 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   
   <meta name="theme-color" content="#2f4154">
-  <meta name="description" content="帮一个朋友追踪一个饥荒骗子的动向，利用 Github Actions，每5-10min执行一次，只要该玩家在线，就会发邮件提醒">
+  <meta name="description" content="">
   <meta name="author" content="辣椒小皇纸">
   <meta name="keywords" content="">
-  <meta name="description" content="帮一个朋友追踪一个饥荒骗子的动向，利用 Github Actions，每5-10min执行一次，只要该玩家在线，就会发邮件提醒">
-<meta property="og:type" content="article">
-<meta property="og:title" content="饥荒联机版玩家追踪">
-<meta property="og:url" content="https://peppernotes.top/2020/10/dsttracker/">
+  <meta property="og:type" content="article">
+<meta property="og:title" content="辣椒手记">
+<meta property="og:url" content="https://peppernotes.top/2021/10/">
 <meta property="og:site_name" content="辣椒手记">
-<meta property="og:description" content="帮一个朋友追踪一个饥荒骗子的动向，利用 Github Actions，每5-10min执行一次，只要该玩家在线，就会发邮件提醒">
 <meta property="og:locale" content="zh_CN">
-<meta property="og:image" content="https://peppernotes.top/img/article_image/2020/2020-10-07/1.webp">
-<meta property="og:image" content="https://peppernotes.top/img/article_image/2020/2020-10-07/2.webp">
-<meta property="article:published_time" content="2020-10-07T15:21:33.000Z">
-<meta property="article:modified_time" content="2021-02-06T12:38:35.000Z">
+<meta property="article:published_time" content="2021-10-18T15:17:15.546Z">
+<meta property="article:modified_time" content="2022-03-30T09:45:01.934Z">
 <meta property="article:author" content="辣椒小皇纸">
-<meta property="article:tag" content="饥荒">
-<meta property="article:tag" content="Python">
-<meta property="article:tag" content="GitHub Actions">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://peppernotes.top/img/article_image/2020/2020-10-07/1.webp">
   
-  <title>饥荒联机版玩家追踪 - 辣椒手记</title>
+  <title>辣椒手记</title>
 
   <link  rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4/dist/css/bootstrap.min.css" />
 
@@ -191,12 +183,12 @@
 </nav>
 
     <div class="banner" id="banner" parallax=true
-         style="background: url('/img/post_background/dst.webp') no-repeat center center;
+         style="background: url('/img/default.webp') no-repeat center center;
            background-size: cover;">
       <div class="full-bg-img">
         <div class="mask flex-center" style="background-color: rgba(0, 0, 0, 0.3)">
           <div class="page-header text-center fade-in-up">
-            <span class="h2" id="subtitle" title="饥荒联机版玩家追踪">
+            <span class="h2" id="subtitle" title="">
               
             </span>
 
@@ -206,8 +198,8 @@
   
     <span class="post-meta">
       <i class="iconfont icon-date-fill" aria-hidden="true"></i>
-      <time datetime="2020-10-07 23:21" pubdate>
-        2020-10-07 23:21
+      <time datetime="2021-10-18 23:17" pubdate>
+        2021-10-18 23:17
       </time>
     </span>
   
@@ -217,7 +209,7 @@
   
     <span class="post-meta mr-2">
       <i class="iconfont icon-chart"></i>
-      888 字
+      0 字
     </span>
   
 
@@ -226,7 +218,7 @@
       <i class="iconfont icon-clock-fill"></i>
       
       
-      3 分钟
+      1 分钟
     </span>
   
 
@@ -263,93 +255,21 @@
         <div class="py-5" id="board">
           <article class="post-content mx-auto">
             <!-- SEO header -->
-            <h1 style="display: none">饥荒联机版玩家追踪</h1>
+            <h1 style="display: none"></h1>
             
               <p class="note note-info">
                 
-                  本文最后更新于：2021-02-06 20:38
+                  本文最后更新于：2022-03-30 17:45
                 
               </p>
             
             <div class="markdown-body">
-              <p>帮一个朋友追踪一个饥荒骗子的动向，利用 <code>Github Actions</code>，每5-10min执行一次，只要该玩家在线，就会发邮件提醒</p>
-<span id="more"></span>
-
-<p>GitHub 地址：<a target="_blank" rel="noopener" href="https://github.com/jupitersh/dst-server-tracker">https://github.com/jupitersh/dst-server-tracker</a></p>
-<h2 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h2><p><code>fork</code> 到自己仓库后，在 <code>Settings</code> -&gt; <code>Secrets</code> 中添加以下值</p>
-<table>
-<thead>
-<tr>
-<th>Name</th>
-<th>Descrip</th>
-<th>Value举例</th>
-</tr>
-</thead>
-<tbody><tr>
-<td><code>QQ_NUMBER</code></td>
-<td>你的QQ号</td>
-<td><code>1209626343</code></td>
-</tr>
-<tr>
-<td><code>QQ_SMPT_PASSWD</code></td>
-<td>你的QQ邮箱的SMTP密码</td>
-<td><code>dxxdasdcxfeghbvb5xz</code></td>
-</tr>
-<tr>
-<td><code>TARGET_STEAM_ID</code></td>
-<td>要追踪的人STEAM ID</td>
-<td><code>76561198204009266</code></td>
-</tr>
-<tr>
-<td><code>TOKEN</code></td>
-<td>Klei Token 获取方法见下文</td>
-<td><code>pcl-usc^KU_aUxMQjy7^DontStarveTogether^rCT</code><br><code>aArNuSx3tPzjquadxMQ/hs6j+InnOvHPWeO6EW6Y=</code></td>
-</tr>
-<tr>
-<td><code>TO_MAIL</code></td>
-<td>要通知的邮箱</td>
-<td><code>1209626343@qq.com</code></td>
-</tr>
-</tbody></table>
-<p>添加完成后如下图</p>
-<p><img src="/img/article_image/2020/2020-10-07/1.webp" srcset="/img/loading.gif" lazyload alt=""></p>
-<h2 id="获取-TOKEN"><a href="#获取-TOKEN" class="headerlink" title="获取 TOKEN"></a>获取 <code>TOKEN</code></h2><p>打开饥荒联机版，在如下界面的控制台内输入 <code>print(TheFrontEnd:GetAccountManager():GetToken())</code>，然后别关游戏，打开 <code>文档\Klei\DoNotStarveTogether\client_log.txt</code>，在最下面可以找到类似 <code>pcl-usc^KU_aUxMQjy7^DontStarveTogether^rCTaArNuSx3tPzjquadxMQ/hs6j+InnOvHPWeO6EW6Y=</code> 的字段就是 <code>TOKEN</code></p>
-<p>该方法获得的 <code>TOKEN</code> 几小时候后会失效，可以向 Klei 索取永久的 <code>TOKEN</code></p>
-<p><img src="/img/article_image/2020/2020-10-07/2.webp" srcset="/img/loading.gif" lazyload alt=""></p>
-<p>设置好后打开，修改 <code>.github/workflows/main.yml</code>，找到下面的段落，将 <code>#</code> 号去掉即可</p>
-<figure class="highlight dts"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs dts"><span class="hljs-symbol">on:</span><br><span class="hljs-symbol">  push:</span><br><span class="hljs-symbol">    branches:</span> main<br>  <span class="hljs-meta">#schedule:</span><br>  <span class="hljs-meta">#- cron: <span class="hljs-string">&quot;*/5 * * * *&quot;</span></span><br></code></pre></td></tr></table></figure>
-
-<p>注意： GitHub Action 免费用户每月只能用 2000 分钟，请调节合适的频率避免免费额度用完，另外如果有服务器的话，可以部署在自己服务器上更方便</p>
-
+              
             </div>
             <hr>
             <div>
               <div class="post-metas mb-3">
                 
-                  <div class="post-meta mr-3">
-                    <i class="iconfont icon-category"></i>
-                    
-                      <a class="hover-with-bg" href="/categories/%E6%B8%B8%E6%88%8F/">游戏</a>
-                    
-                      <a class="hover-with-bg" href="/categories/IT/">IT</a>
-                    
-                      <a class="hover-with-bg" href="/categories/%E6%B8%B8%E6%88%8F/%E9%A5%A5%E8%8D%92/">饥荒</a>
-                    
-                      <a class="hover-with-bg" href="/categories/IT/Python/">Python</a>
-                    
-                  </div>
-                
-                
-                  <div class="post-meta">
-                    <i class="iconfont icon-tags"></i>
-                    
-                      <a class="hover-with-bg" href="/tags/%E9%A5%A5%E8%8D%92/">饥荒</a>
-                    
-                      <a class="hover-with-bg" href="/tags/Python/">Python</a>
-                    
-                      <a class="hover-with-bg" href="/tags/GitHub-Actions/">GitHub Actions</a>
-                    
-                  </div>
                 
               </div>
               
@@ -358,18 +278,12 @@
                   <article class="post-prev col-6">
                     
                     
-                      <a href="/2021/02/qqbot/">
-                        <i class="iconfont icon-arrowleft"></i>
-                        <span class="hidden-mobile">利用 Mirai 及 Graia 搭建自己的 QQ 机器人</span>
-                        <span class="visible-mobile">上一篇</span>
-                      </a>
-                    
                   </article>
                   <article class="post-next col-6">
                     
                     
-                      <a href="/repo/">
-                        <span class="hidden-mobile">饥荒『荒野求生』服务器仓库物品统计</span>
+                      <a href="/2021/05/repoguide/">
+                        <span class="hidden-mobile">荒野求生服个人仓库使用教程</span>
                         <span class="visible-mobile">下一篇</span>
                         <i class="iconfont icon-arrowright"></i>
                       </a>
