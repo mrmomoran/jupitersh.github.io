@@ -333,6 +333,20 @@
   </url>
   
   <url>
+    <loc>https://peppernotes.top/tags/VirtualBox/</loc>
+    <lastmod>2022-04-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peppernotes.top/tags/Git/</loc>
+    <lastmod>2022-04-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://peppernotes.top/tags/Hexo/</loc>
     <lastmod>2022-04-05</lastmod>
     <changefreq>daily</changefreq>
@@ -348,20 +362,6 @@
   
   <url>
     <loc>https://peppernotes.top/tags/%E7%A0%81%E4%BA%91/</loc>
-    <lastmod>2022-04-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peppernotes.top/tags/VirtualBox/</loc>
-    <lastmod>2022-04-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peppernotes.top/tags/Git/</loc>
     <lastmod>2022-04-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -545,14 +545,14 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/categories/IT/Linux/</loc>
+    <loc>https://peppernotes.top/categories/IT/Git/</loc>
     <lastmod>2022-04-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://peppernotes.top/categories/IT/Python/</loc>
+    <loc>https://peppernotes.top/categories/IT/Linux/</loc>
     <lastmod>2022-04-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -566,7 +566,7 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/categories/IT/Git/</loc>
+    <loc>https://peppernotes.top/categories/IT/Python/</loc>
     <lastmod>2022-04-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
