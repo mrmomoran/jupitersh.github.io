@@ -480,6 +480,13 @@
   </url>
   
   <url>
+    <loc>https://peppernotes.top/tags/Pixiv/</loc>
+    <lastmod>2022-04-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://peppernotes.top/tags/Sublime-Text/</loc>
     <lastmod>2022-04-15</lastmod>
     <changefreq>daily</changefreq>
@@ -488,13 +495,6 @@
   
   <url>
     <loc>https://peppernotes.top/tags/Coding/</loc>
-    <lastmod>2022-04-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peppernotes.top/tags/Pixiv/</loc>
     <lastmod>2022-04-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
