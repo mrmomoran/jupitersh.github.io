@@ -261,14 +261,14 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/2020/03/aria2h5ai/</loc>
+    <loc>https://peppernotes.top/2020/02/giteeautoupdate/</loc>
     
     <lastmod>2020-05-24</lastmod>
     
   </url>
   
   <url>
-    <loc>https://peppernotes.top/2020/02/giteeautoupdate/</loc>
+    <loc>https://peppernotes.top/2020/03/aria2h5ai/</loc>
     
     <lastmod>2020-05-24</lastmod>
     
@@ -473,6 +473,20 @@
   </url>
   
   <url>
+    <loc>https://peppernotes.top/tags/Email/</loc>
+    <lastmod>2022-04-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peppernotes.top/tags/Pixiv/</loc>
+    <lastmod>2022-04-19</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://peppernotes.top/tags/Sublime-Text/</loc>
     <lastmod>2022-04-19</lastmod>
     <changefreq>daily</changefreq>
@@ -487,14 +501,7 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/tags/Pixiv/</loc>
-    <lastmod>2022-04-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peppernotes.top/tags/Email/</loc>
+    <loc>https://peppernotes.top/tags/GitHub-Actions/</loc>
     <lastmod>2022-04-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -502,13 +509,6 @@
   
   <url>
     <loc>https://peppernotes.top/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</loc>
-    <lastmod>2022-04-19</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peppernotes.top/tags/GitHub-Actions/</loc>
     <lastmod>2022-04-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
