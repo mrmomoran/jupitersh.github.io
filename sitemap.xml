@@ -312,13 +312,6 @@
 
   
   <url>
-    <loc>https://peppernotes.top/tags/%E9%A5%A5%E8%8D%92/</loc>
-    <lastmod>2022-05-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://peppernotes.top/tags/Linux/</loc>
     <lastmod>2022-05-08</lastmod>
     <changefreq>daily</changefreq>
@@ -326,7 +319,7 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/tags/Screen/</loc>
+    <loc>https://peppernotes.top/tags/%E9%A5%A5%E8%8D%92/</loc>
     <lastmod>2022-05-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -382,20 +375,6 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/tags/Aria2/</loc>
-    <lastmod>2022-05-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peppernotes.top/tags/h5ai/</loc>
-    <lastmod>2022-05-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://peppernotes.top/tags/GitHub/</loc>
     <lastmod>2022-05-08</lastmod>
     <changefreq>daily</changefreq>
@@ -425,6 +404,20 @@
   
   <url>
     <loc>https://peppernotes.top/tags/DNS/</loc>
+    <lastmod>2022-05-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peppernotes.top/tags/Aria2/</loc>
+    <lastmod>2022-05-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peppernotes.top/tags/h5ai/</loc>
     <lastmod>2022-05-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -466,14 +459,14 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/</loc>
+    <loc>https://peppernotes.top/tags/Email/</loc>
     <lastmod>2022-05-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://peppernotes.top/tags/Email/</loc>
+    <loc>https://peppernotes.top/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/</loc>
     <lastmod>2022-05-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -515,6 +508,13 @@
   </url>
   
   <url>
+    <loc>https://peppernotes.top/tags/Screen/</loc>
+    <lastmod>2022-05-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://peppernotes.top/tags/%E5%8C%BB%E5%AD%A6/</loc>
     <lastmod>2022-05-08</lastmod>
     <changefreq>daily</changefreq>
@@ -524,13 +524,6 @@
 
   
   <url>
-    <loc>https://peppernotes.top/categories/%E6%B8%B8%E6%88%8F/</loc>
-    <lastmod>2022-05-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://peppernotes.top/categories/IT/</loc>
     <lastmod>2022-05-08</lastmod>
     <changefreq>daily</changefreq>
@@ -538,21 +531,7 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/categories/%E6%B8%B8%E6%88%8F/%E9%A5%A5%E8%8D%92/</loc>
-    <lastmod>2022-05-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peppernotes.top/categories/IT/Linux/</loc>
-    <lastmod>2022-05-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peppernotes.top/categories/IT/Python/</loc>
+    <loc>https://peppernotes.top/categories/%E6%B8%B8%E6%88%8F/</loc>
     <lastmod>2022-05-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -566,7 +545,28 @@
   </url>
   
   <url>
+    <loc>https://peppernotes.top/categories/IT/Linux/</loc>
+    <lastmod>2022-05-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://peppernotes.top/categories/IT/Git/</loc>
+    <lastmod>2022-05-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peppernotes.top/categories/%E6%B8%B8%E6%88%8F/%E9%A5%A5%E8%8D%92/</loc>
+    <lastmod>2022-05-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peppernotes.top/categories/IT/Python/</loc>
     <lastmod>2022-05-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
