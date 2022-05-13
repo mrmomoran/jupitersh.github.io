@@ -333,13 +333,6 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/tags/VirtualBox/</loc>
-    <lastmod>2022-05-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://peppernotes.top/tags/Hexo/</loc>
     <lastmod>2022-05-13</lastmod>
     <changefreq>daily</changefreq>
@@ -355,6 +348,13 @@
   
   <url>
     <loc>https://peppernotes.top/tags/%E7%A0%81%E4%BA%91/</loc>
+    <lastmod>2022-05-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peppernotes.top/tags/VirtualBox/</loc>
     <lastmod>2022-05-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -417,20 +417,6 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/tags/Vercel/</loc>
-    <lastmod>2022-05-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peppernotes.top/tags/DNS/</loc>
-    <lastmod>2022-05-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://peppernotes.top/tags/%E5%85%B6%E4%BB%96/</loc>
     <lastmod>2022-05-13</lastmod>
     <changefreq>daily</changefreq>
@@ -439,6 +425,20 @@
   
   <url>
     <loc>https://peppernotes.top/tags/Pandas/</loc>
+    <lastmod>2022-05-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peppernotes.top/tags/Vercel/</loc>
+    <lastmod>2022-05-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peppernotes.top/tags/DNS/</loc>
     <lastmod>2022-05-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -545,6 +545,13 @@
   </url>
   
   <url>
+    <loc>https://peppernotes.top/categories/IT/Git/</loc>
+    <lastmod>2022-05-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://peppernotes.top/categories/IT/Linux/</loc>
     <lastmod>2022-05-13</lastmod>
     <changefreq>daily</changefreq>
@@ -566,13 +573,6 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/categories/IT/Git/</loc>
-    <lastmod>2022-05-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://peppernotes.top/categories/IT/Docker/</loc>
     <lastmod>2022-05-13</lastmod>
     <changefreq>daily</changefreq>
@@ -580,14 +580,14 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/categories/IT/%E5%85%B6%E4%BB%96/</loc>
+    <loc>https://peppernotes.top/categories/%E5%85%B6%E4%BB%96/</loc>
     <lastmod>2022-05-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://peppernotes.top/categories/%E5%85%B6%E4%BB%96/</loc>
+    <loc>https://peppernotes.top/categories/IT/%E5%85%B6%E4%BB%96/</loc>
     <lastmod>2022-05-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
