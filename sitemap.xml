@@ -254,13 +254,6 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/2019/11/dstserverwindows/</loc>
-    
-    <lastmod>2020-05-24</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://peppernotes.top/2020/02/giteeautoupdate/</loc>
     
     <lastmod>2020-05-24</lastmod>
@@ -269,6 +262,13 @@
   
   <url>
     <loc>https://peppernotes.top/2020/03/aria2h5ai/</loc>
+    
+    <lastmod>2020-05-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://peppernotes.top/2019/11/dstserverwindows/</loc>
     
     <lastmod>2020-05-24</lastmod>
     
@@ -333,6 +333,13 @@
   </url>
   
   <url>
+    <loc>https://peppernotes.top/tags/Git/</loc>
+    <lastmod>2022-05-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://peppernotes.top/tags/VirtualBox/</loc>
     <lastmod>2022-05-28</lastmod>
     <changefreq>daily</changefreq>
@@ -355,13 +362,6 @@
   
   <url>
     <loc>https://peppernotes.top/tags/%E7%A0%81%E4%BA%91/</loc>
-    <lastmod>2022-05-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peppernotes.top/tags/Git/</loc>
     <lastmod>2022-05-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -445,6 +445,13 @@
   </url>
   
   <url>
+    <loc>https://peppernotes.top/tags/OpenVPN/</loc>
+    <lastmod>2022-05-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://peppernotes.top/tags/R/</loc>
     <lastmod>2022-05-28</lastmod>
     <changefreq>daily</changefreq>
@@ -453,13 +460,6 @@
   
   <url>
     <loc>https://peppernotes.top/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/</loc>
-    <lastmod>2022-05-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peppernotes.top/tags/OpenVPN/</loc>
     <lastmod>2022-05-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -480,13 +480,6 @@
   </url>
   
   <url>
-    <loc>https://peppernotes.top/tags/Pixiv/</loc>
-    <lastmod>2022-05-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://peppernotes.top/tags/Sublime-Text/</loc>
     <lastmod>2022-05-28</lastmod>
     <changefreq>daily</changefreq>
@@ -495,6 +488,13 @@
   
   <url>
     <loc>https://peppernotes.top/tags/Coding/</loc>
+    <lastmod>2022-05-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://peppernotes.top/tags/Pixiv/</loc>
     <lastmod>2022-05-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -545,6 +545,13 @@
   </url>
   
   <url>
+    <loc>https://peppernotes.top/categories/IT/Blogging/</loc>
+    <lastmod>2022-05-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://peppernotes.top/categories/IT/Linux/</loc>
     <lastmod>2022-05-28</lastmod>
     <changefreq>daily</changefreq>
@@ -553,13 +560,6 @@
   
   <url>
     <loc>https://peppernotes.top/categories/IT/Python/</loc>
-    <lastmod>2022-05-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://peppernotes.top/categories/IT/Blogging/</loc>
     <lastmod>2022-05-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
